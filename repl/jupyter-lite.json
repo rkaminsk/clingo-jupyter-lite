@@ -9,7 +9,7 @@
   },
   "litePluginSettings": {
     "@jupyterlite/pyolite-kernel-extension:kernel": {
-      "pyodideUrl": "./pyodide/pyodide.js"
+      "pyodideUrl": "https://rkaminsk.github.io/clingo-jupyter-lite/static/pyodide/pyodide.js"
     }
   }
 }
