@@ -6,7 +6,7 @@
             "jupyterlab-kernel-spy",
             "jupyterlab-tour"
         ]
-    }
+    },
     "litePluginSettings": {
         "@jupyterlite/pyolite-kernel-extension:kernel": {
             "pyodideUrl": "./pyodide/pyodide.js"
