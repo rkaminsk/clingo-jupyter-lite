@@ -3,6 +3,10 @@
   "jupyter-config-data": {
     "disabledExtensions": [
       "@jupyterlab/drawio-extension",
+      "@jupyterlite/xeus-lua-kernel",
+      "@jupyterlite/xeus-wren-kernel",
+      "@jupyterlite/xeus-sqlite-kernel",
+      "@jupyterlite/p5-kernel-extension",
       "jupyterlab-kernel-spy",
       "jupyterlab-tour"
     ]
