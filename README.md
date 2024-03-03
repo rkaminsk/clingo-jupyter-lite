@@ -5,6 +5,7 @@ JupyterLite deployed as a static site to GitHub Pages.
 ## ✨ Try it in your browser ✨
 
 ➡️ **https://rkaminsk.github.io/clingo-jupyter-lite/**
+- **https://rkaminsk.github.io/clingo-jupyter-lite/static/pyodide/console.html**
 
 ## Requirements
 
